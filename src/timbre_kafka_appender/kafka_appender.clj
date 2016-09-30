@@ -2,7 +2,6 @@
   "franzy (kafka) appender.
   Requires [franzy](https://github.com/ymilky/franzy)"
   (:require
-   [cheshire.core :refer [generate-string]]
    [franzy.serialization.serializers :as serializers]
    [franzy.clients.producer.client :as producer]
    [franzy.clients.producer.defaults :as pd]

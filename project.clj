@@ -1,4 +1,4 @@
-(defproject timbre-kafka-appender "0.1.0"
+(defproject timbre-kafka-appender "0.0.1"
   :description "timbre-kafka-appender is an appender
  for logging into kafka server"
   :url "https://github.com/chao787/timbre-kafka-appender"

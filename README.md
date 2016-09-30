@@ -2,6 +2,8 @@
 
 A timbre appender designed to send log to kafka.
 
+[![Clojars Project](https://img.shields.io/clojars/v/timbre-kafka-appender.svg)](https://clojars.org/timbre-kafka-appender)
+
 ## Usage
 
 basic demo for appender usage

@@ -1,5 +1,5 @@
 (ns taoensso.timbre.appenders.3rd-party.kafka-appender
-  "franzy (kafka) appender.
+  "kafka (franzy) appender.
   Requires [franzy](https://github.com/ymilky/franzy)"
   (:require
    [franzy.serialization.serializers :as serializers]

@@ -1,4 +1,4 @@
-(ns timbre-kafka-appender.kafka-appender
+(ns taoensso.timbre.appenders.3rd-party.kafka-appender
   "franzy (kafka) appender.
   Requires [franzy](https://github.com/ymilky/franzy)"
   (:require
@@ -56,7 +56,7 @@
    :?line    ?line
    :msg      (force msg_)})
 
-(defn franzy-appender
+(defn kafka-appender
   "Returns a kafka appender.
   (franzy-appender
     {:topic \"test-topic\"

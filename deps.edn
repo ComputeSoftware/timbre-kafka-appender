@@ -1,0 +1,2 @@
+{:deps
+ {clj-kafka.franzy/core {:mvn/version "2.0.7"}}}
